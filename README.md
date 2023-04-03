@@ -1,1 +1,1 @@
-# Test de connection à mon API
+# Simple test de connection à mon API
